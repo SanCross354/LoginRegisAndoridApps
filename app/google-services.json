@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "991551956344",
+    "project_id": "login-register-firebase-81ecb",
+    "storage_bucket": "login-register-firebase-81ecb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991551956344:android:d3a092044d7311f9f6948d",
+        "android_client_info": {
+          "package_name": "com.example.diceroller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfJZlk9dEbFlLAPH4xfx-B50AoD2o13b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991551956344:android:043858715872bfc3f6948d",
+        "android_client_info": {
+          "package_name": "com.example.loginregis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfJZlk9dEbFlLAPH4xfx-B50AoD2o13b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
